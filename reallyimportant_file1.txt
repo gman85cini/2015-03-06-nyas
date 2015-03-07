@@ -2,3 +2,4 @@ I'm learning how to use git
 
 I'm making a change to this file and pushing it to github
 
+I'm going to make a change on my local computer
